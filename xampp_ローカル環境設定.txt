@@ -1,0 +1,5 @@
+ローカル環境　xamppのApacheとmysql使用
+
+htdocsフォルダに「PopType_csvSample」をいれる
+
+http://localhost/PopType/を開く。
